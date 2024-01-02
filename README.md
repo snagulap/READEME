@@ -11,11 +11,11 @@
 
 ### Programming Skills
 - Advanced level in:
-  - ![C](![image](https://github.com/snagulap/READEME/assets/121139187/ebbda8a5-b817-45cd-9f1e-93be481e25bc)
-)
-  - ![C++](icons/cpp.png) C++
-  - ![Python](icons/python.png) Python
-  - ![JavaScript](icons/javascript.png) JavaScript
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C Icon" width="24"/>
+- <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python Icon" width="24"/>
+- <img src="https://img.icons8.com/color/48/000000/r.png" alt="R Icon" width="24"/>
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C++ Icon" width="24"/>
+- <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="Javascript Icon" width="24"/>
 
 - Intermediate level in:
   - ![HTML](icons/html.png) HTML
@@ -59,7 +59,7 @@ Feel free to explore the projects and provide feedback or suggestions. Contribut
 
 ## Contact Information
 
-For any inquiries or collaborations, you can reach out to me via email at your.email@example.com.
+For any inquiries or collaborations, you can reach out to me via email at srinivasn.4916@gmail.com.
 
 Thank you for visiting! 🚀
 
