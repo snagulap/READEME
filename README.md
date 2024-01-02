@@ -45,7 +45,7 @@ Currently employed at HCP Sense GmbH since June 2023, working on:
 
 ## GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snagulap&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/snagulap/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=snagulap&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/snagulap)
 
 ## Project Details
 
