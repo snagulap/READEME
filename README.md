@@ -36,6 +36,7 @@ Connect with me on:
 - [![Instagram](icons/instagram.png) Instagram](https://www.instagram.com/your-instagram-profile)
 
 ## Professional Experience
+- Embedded Software Engineer with 5 years of experience
 
 Currently employed at HCP Sense GmbH since June 2023, working on:
 - Azure App Services
