@@ -11,7 +11,8 @@
 
 ### Programming Skills
 - Advanced level in:
-  - ![C](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png)
+  - ![C](![image](https://github.com/snagulap/READEME/assets/121139187/ebbda8a5-b817-45cd-9f1e-93be481e25bc)
+)
   - ![C++](icons/cpp.png) C++
   - ![Python](icons/python.png) Python
   - ![JavaScript](icons/javascript.png) JavaScript
