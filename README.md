@@ -1,4 +1,4 @@
-# README
+# Project Readme
 
 ## Personal Information
 
@@ -42,6 +42,10 @@ Currently employed at HCP Sense GmbH since June 2023, working on:
 - Docker Images
 - GitHub Actions
 
+## GitHub Statistics
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide=issues,contribs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Project Details
 
 This repository contains my work on various projects, showcasing proficiency in programming languages and technologies. The focus is on:
@@ -57,3 +61,4 @@ Feel free to explore the projects and provide feedback or suggestions. Contribut
 For any inquiries or collaborations, you can reach out to me via email at your.email@example.com.
 
 Thank you for visiting! 🚀
+
